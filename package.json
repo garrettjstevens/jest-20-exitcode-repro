@@ -1,0 +1,9 @@
+{
+  "name": "jest-20-exitcode-repro",
+  "description": "Reproduction of an inconsistency (bug?) in setting `process.exitCode` within tested code in Node.js 18 vs. 20.",
+  "repository": "github:garrettjstevens/jest-20-exitcode-repro",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
